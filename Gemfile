@@ -6,8 +6,6 @@ gem 'capistrano-rails', :group => :development
 
 gem 'capistrano-passenger', :group => :development
 
-gem "mysql2", :group => :production
-
 gem "paperclip"
 
 gem 'ransack'
