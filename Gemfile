@@ -23,6 +23,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem "kaminari"
 
 # gem 'pg', '~> 0.18.4'
+gem 'pg'
+gem 'rails_12factor', group: :production
 
 gem 'rails_12factor', group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
